@@ -1,1 +1,6 @@
 .c9/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+envy
